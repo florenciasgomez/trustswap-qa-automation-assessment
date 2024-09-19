@@ -28,13 +28,14 @@ This repository contains automated tests for a blockchain-based token locking sy
 
 This project leverages several key technologies for blockchain testing:
 
+These technologies were selected for their reliability, extensive documentation, and strong community support in the blockchain development ecosystem.
+
 - **Cypress**: Chosen for its powerful, easy-to-use testing framework that supports asynchronous operations common in blockchain interactions.
 - **Ethers.js**: Used for its robust Ethereum wallet implementation and utilities for interacting with smart contracts.
 - **Dotenv**: Employed for secure management of environment variables, crucial for handling sensitive data like private keys.
 - **Mocha**: Integrated with Cypress, providing a flexible testing structure for blockchain operations.
 - **Chai**: Used in conjunction with Mocha for its expressive assertion syntax, enhancing test readability.
 
-These technologies were selected for their reliability, extensive documentation, and strong community support in the blockchain development ecosystem.
 
 ## Installation
 
