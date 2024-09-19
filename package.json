@@ -1,0 +1,26 @@
+{
+  "name": "qa-automation-assessment",
+  "version": "1.0.0",
+  "description": "QA Automation Assessment for Blockchain Product",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "blockchain",
+    "cypress"
+  ],
+  "author": "Florencia Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2"
+  },
+  "devDependencies": {
+    "cypress": "^13.14.2",
+    "cypress-dotenv": "^2.0.0"
+  }
+}
